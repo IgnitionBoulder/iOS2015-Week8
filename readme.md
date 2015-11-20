@@ -22,7 +22,7 @@ Continue working on your final project. **We will continue to have lectures and 
 	* Last day of class
 	* Present a 5-10 minute demo of your app
 
-## Week 7: Third party libraries/Networking
+## Week 8: Third party libraries/Networking
 
 ### Section 1: CocoaPods
 The most popular package management for iOS and Mac development.
