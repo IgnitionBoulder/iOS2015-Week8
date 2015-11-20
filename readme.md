@@ -36,3 +36,26 @@ Another popular package manager, based around frameworks/modules and only availa
 
 #### Resources
 - [Carthage](https://github.com/Carthage/Carthage)
+
+### Section 3: NSURLSession
+NSURLSession is the built in networking library provided by Apple. Note that this replaces the older NSURLConnection library, which should not be used anymore
+
+#### Resources
+- [NSURLSession reference](https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSURLSession_class/)
+- [NSURLSession WWDC Video](https://developer.apple.com/videos/play/wwdc2015-711/)
+
+#### Open Source Helpers
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+
+### Section 4: NSJSONSerialization
+NSJSONSerialization is Apple's built in JSON parsing and serialization library. There are other third party JSON parsers (e.g. SBJSON), but these should no longer be used.
+
+#### Resources
+- [NSJSONSerialization reference](https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSJSONSerialization_Class/)
+- [NSURLSession WWDC Video](https://developer.apple.com/videos/play/wwdc2015-711/)
+
+#### Open Source Helpers
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+- [json-swift](https://github.com/owensd/json-swift)
+- [Argo](https://github.com/thoughtbot/Argo)
+- Plus LOTS more
